@@ -32,6 +32,6 @@ front-end to deliver seamless and engaging user experiences.
 ## 📫 Connect with me
 - LinkedIn:linkedin.com/in/mohamad-al-ghourani-3b3aa5208
 
-I'm always eager to collaborate on exciting front-end projects and contribute my skills to create impactful digital experiences. 
+I'm always eager to collaborate on exciting FullStack projects and contribute my skills to create impactful digital experiences. 
 Let's connect and build something amazing together! 😊
 
