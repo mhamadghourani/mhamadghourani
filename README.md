@@ -8,6 +8,7 @@ I'm a passionate full-stack developer with a strong focus on both front-end and 
 - Optimizing back-end services using Java and Spring Framework.
 - Integrating APIs and managing state with Redux and Context API.
 - Handling databases and complex queries with SQL.
+  
 🌱 I’m currently learning
 
 - Advanced React concepts such as Hooks and Context API.
