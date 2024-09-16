@@ -1,5 +1,8 @@
 Hi there, I'm Mohamad! 👋
-I'm a passionate full-stack developer with a strong focus on both front-end and back-end technologies. I thrive in building complete web applications, leveraging Java and Spring for the back-end and JavaScript with React for the front-end to deliver seamless and engaging user experiences.
+
+I'm a passionate full-stack developer with a strong focus on both front-end and back-end technologies.
+I thrive in building complete web applications, leveraging Java and Spring for the back-end and JavaScript with React for the 
+front-end to deliver seamless and engaging user experiences.
 
 🔭 I’m currently working on
 
