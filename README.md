@@ -1,4 +1,12 @@
 # Hi, I'm Mhamad Ghourani 👋
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-black)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Fullstack-black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![AI](https://img.shields.io/badge/AI-Integration-purple)
 
 Software Developer focused on building modern SaaS applications with Spring Boot, React, and Next.js.
 
