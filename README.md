@@ -1,102 +1,29 @@
-# Hi, I'm Mhamad 👋
+# Hi, I'm Mhamad Ghourani 👋
 
-Backend-focused Software Developer building scalable, reliable, and maintainable systems.
+Software Developer focused on building modern SaaS applications with Spring Boot, React, and Next.js.
 
-I enjoy working on backend architecture, APIs, and full-stack applications that solve real-world problems.
+### Tech Stack
 
----
+**Backend:** Java 17, Spring Boot, Spring Security, JWT Authentication, JPA/Hibernate, Apache Kafka, REST APIs
 
-## 🧠 About Me
+**Frontend:** React, Next.js, JavaScript, Tailwind CSS, shadcn/ui
 
-- 💻 Focused on Backend Development (Java / Spring Boot)
-- 🌐 Building Full-Stack Applications with React / Next.js
-- 🗄️ Strong interest in databases and system design
-- ⚙️ Enjoy designing clean architectures and scalable APIs
-- 📚 Always learning best practices and modern backend patterns
+**Databases:** PostgreSQL, MySQL, H2
 
----
+**AI Integration:** LLM APIs, Prompt Engineering, AI-Powered Workflows, Retrieval-Augmented Generation (RAG)
 
-## 🛠️ Tech Stack
+**Tools:** Git, GitHub, Maven, Docker
 
-### Backend
-- Java 
-- Spring Boot
-- Spring Data JPA
-- Spring Security
-- REST APIs
+### Building
 
-### Frontend
-- React
-- Next.js
-- JavaScript 
+🚀 **NotionFuse** — A SaaS platform that consolidates multiple Notion databases into a single workspace. Built with Spring Boot and Next.js, featuring secure authentication, subscription management, API integrations, and AI-powered productivity workflows.
 
-### Database
-- PostgreSQL
-- SQL
-- Database Design & Relationships
+### Selected Projects
 
-### Tools & Concepts
-- Git & GitHub
-- Postman
-- Maven
-- MVC Architecture
-- Layered Architecture (Controller / Service / Repository)
+🏦 **JPMorgan Chase Midas Core Banking System** — Event-driven banking application built with Spring Boot and Apache Kafka.
 
----
+🔐 **Authentication & Authorization APIs** — Secure backend services implementing JWT authentication and role-based access control.
 
-## 🏗️ What I Work On
+### Connect
 
-I focus on building systems with clean architecture:
-
-- RESTful APIs
-- Authentication & Authorization systems
-- Database-driven applications
-- Backend service design
-- Full-stack web applications
-
----
-
-## 🎯 Current Focus
-
-- Improving backend system design skills
-- Building scalable Spring Boot applications
-- Strengthening database modeling skills
-- Learning production-level API design
-- Understanding authentication and security systems
-
----
-
-## 📌 Projects
-
-A collection of backend and full-stack projects demonstrating:
-
-- REST API design
-- CRUD systems
-- Authentication systems
-- Database-driven applications
-- Full-stack web apps
-
----
-
-## 📈 Goals
-
-- Become a strong backend engineer
-- Master system design fundamentals
-- Build production-ready SaaS applications
-- Improve scalability and performance thinking
-- Work on real-world distributed systems in the future
-
----
-
-## ⚡ Principles I Follow
-
-- Clean code over clever code
-- Simplicity over complexity
-- Scalable design over quick hacks
-- Separation of concerns in every project
-
----
-
-## 📫 Contact
-
-Open to collaboration, learning opportunities, and backend-focused projects.
+LinkedIn: https://www.linkedin.com/in/mohamad-al-ghourani-3b3aa5208/
